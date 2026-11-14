@@ -24,7 +24,8 @@ as the mid-sem did for the BST. Be able to type a heap and a chained hash table 
 | [`dp/`](dp/) | Dynamic-programming problems: the lecture slides' algorithms, Practice Set 4 and Tutorial 9 | [`dp/README.md`](dp/README.md) |
 | [`hashing/`](hashing/) | Hashing problems: Tutorial 8, Practice Set 3, open addressing tables, prefix-sum maps, rolling hash | [`hashing/README.md`](hashing/README.md) |
 | [`heap/`](heap/) | Heap / priority-queue problems: slides, Practice Set 3, top-k, k-way merge, median, Dijkstra | [`heap/README.md`](heap/README.md) |
-| [`lcs_practice/`](lcs_practice/README.md) | **7 LCS drills** (table, tie rules, edits, palindrome, repeating, 3 strings, two rows) with `./check.sh p3 my.cpp` | [`lcs_practice/README.md`](lcs_practice/README.md) |
+| [`lcs_practice/`](lcs_practice/README.md) | **10 LCS drills** (table, tie rules, edits, palindrome, repeating, 3 strings, two rows, common substring, edit distance, counting) with `./check.sh p3 my.cpp` | [`lcs_practice/README.md`](lcs_practice/README.md) |
+| [`rod_jump_practice/`](rod_jump_practice/README.md) | **9 rod cutting and jumping drills** (pieces, cut cost, max product, k pieces, jump game, fewest jumps, frog 2 / k, cheapest printed path) with `./check.sh r1 my.cpp` | [`rod_jump_practice/README.md`](rod_jump_practice/README.md) |
 | [`templates/`](templates/) | Hand-written **min-heap**, **chained hash table** and **open addressing table** (linear/quadratic/double, tombstones) | each has a README |
 | [`CHEATSHEET.md`](CHEATSHEET.md) | STL syntax (C++11), input-reading patterns, a DP recurrence table, hashing patterns, traps | |
 | [`test.sh`](test.sh) | Builds every `sol*.cpp` with `-std=c++11 -Wall -Wextra` and checks it against its `tests/` | |

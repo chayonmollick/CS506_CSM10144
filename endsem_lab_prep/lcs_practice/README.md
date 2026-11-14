@@ -1,4 +1,4 @@
-# LCS practice: 7 problems with a checker
+# LCS practice: 10 problems with a checker
 
 Write each solution in your own file, then run:
 
@@ -29,6 +29,9 @@ for (int i = 1; i <= m; i++)
 | P5 | Longest repeating subsequence | a match also needs i ≠ j | 10 min |
 | P6 | LCS of three strings | 3-D table | 10 min |
 | P7 | LCS length of two 30 000-character strings | two rows instead of the table | 10 min |
+| P8 | Longest common **substring** (contiguous) | a mismatch sets the cell to 0; the answer is the max cell | 5 min |
+| P9 | Edit distance (insert, delete, replace) | min instead of max, row 0 / column 0 = i / j | 5 min |
+| P10 | How many times X occurs as a subsequence of Y | count: skip Y[j], plus use it on a match | 8 min |
 
 If you only have 20 minutes, do **P2, P5, P7** in that order. They cover the traceback, a
 changed recurrence, and memory.
@@ -130,6 +133,38 @@ BDCABA
 
 ---
 
+## P8. Longest common substring
+Same input as P1, |X|, |Y| ≤ 1000. The common part must be **contiguous**.
+**Output:** line 1 the length. Line 2 the substring; if there are several, the one that ends
+earliest in X. Print `-` if the length is 0.
+
+```
+Input            Output
+ABABC            4
+BABCA            BABC
+```
+
+## P9. Edit distance
+Same input as P1, |X|, |Y| ≤ 1000. One edit = insert, delete or replace one character.
+**Output:** the fewest edits that turn X into Y.
+
+```
+Input            Output
+SUNDAY           3
+SATURDAY
+```
+
+## P10. Count the occurrences of X in Y as a subsequence
+**Input:** X on line 1, Y on line 2 (|X| ≤ 100, |Y| ≤ 1000). **Output:** the number of index
+sets of Y that spell X, modulo 1 000 000 007.
+
+```
+Input            Output
+rabbit           3
+rabbbit
+```
+(Any two of the three b's in Y give "bb".)
+
 ## Hints (read only if stuck)
 - **P2:** collect characters and positions while walking back, then `reverse` all three.
 - **P3:** keep the LCS and change everything else.
@@ -141,3 +176,9 @@ BDCABA
   the max of the three tables you get by dropping one character.
 - **P7:** `vector<int> prev(n+1, 0), cur(n+1, 0)`; fill `cur` from `prev`, then `swap(prev, cur)`.
   The answer ends up in `prev[n]`.
+- **P8:** `s[i][j] = s[i-1][j-1] + 1` on a match, otherwise 0. Track the best and where it ends
+  in X, then `X.substr(end - best, best)`.
+- **P9:** E[i][0] = i, E[0][j] = j; E[i][j] = min(E[i−1][j] + 1, E[i][j−1] + 1,
+  E[i−1][j−1] + (X[i] ≠ Y[j])).
+- **P10:** W[0][j] = 1 (the empty string occurs once). W[i][j] = W[i][j−1], plus W[i−1][j−1]
+  when X[i] = Y[j]. Take `% MOD` after each addition.
