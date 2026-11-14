@@ -1,0 +1,9 @@
+1
+42
+6
+decreaseKey 1 42
+increaseKey 1 42
+print
+decreaseKey 2 1
+extractMin
+print

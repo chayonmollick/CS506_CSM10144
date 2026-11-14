@@ -1,0 +1,16 @@
+0
+
+13
+maximum
+extractMax
+print
+increaseKey 1 5
+insert -3
+insert -3
+print
+increaseKey 2 -3
+increaseKey 2 10
+print
+extractMax
+extractMax
+extractMax

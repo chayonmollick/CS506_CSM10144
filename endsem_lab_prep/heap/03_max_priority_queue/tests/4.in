@@ -1,0 +1,9 @@
+5
+3 3 3 1 1
+6
+print
+increaseKey 5 3
+print
+increaseKey 4 4
+print
+extractMax

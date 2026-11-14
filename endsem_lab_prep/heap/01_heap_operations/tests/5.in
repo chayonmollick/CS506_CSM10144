@@ -1,0 +1,7 @@
+6
+insert 1000000000
+insert -1000000000
+removeMin
+removeMin
+removeMin
+size

@@ -1,0 +1,16 @@
+5
+9 4 7 1 8
+13
+print
+getMin
+insert 3
+print
+decreaseKey 5 0
+print
+extractMin
+print
+increaseKey 1 10
+print
+decreaseKey 2 50
+size
+sort

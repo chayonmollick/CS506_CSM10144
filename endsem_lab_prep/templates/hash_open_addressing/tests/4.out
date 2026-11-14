@@ -1,0 +1,13 @@
+slot 0 probes 1
+slot 1 probes 2
+slot 2 probes 3
+DELETED 1
+FOUND 2 probes 3
+slot 1 probes 2
+0 21 14 - - - -
+NOT FOUND probes 4
+NOT FOUND
+DELETED 0
+FOUND 2 probes 3
+FOUND 1 probes 2
+D 21 14 - - - -

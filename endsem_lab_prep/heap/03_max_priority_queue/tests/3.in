@@ -1,0 +1,9 @@
+1
+5
+6
+increaseKey 0 9
+increaseKey 2 9
+increaseKey 1 4
+increaseKey 1 6
+print
+maximum

@@ -1,0 +1,3341 @@
+3340
+insert -3
+getMin -3
+removeMin
+insert 7
+getMin 7
+removeMin
+insert 20
+getMin 20
+insert 41
+insert 19
+removeMin
+insert -3
+getMin -3
+removeMin
+insert -4
+insert -10
+getMin -10
+removeMin
+removeMin
+insert 16
+getMin 16
+insert -21
+insert -47
+insert 27
+removeMin
+removeMin
+getMin 16
+removeMin
+removeMin
+removeMin
+removeMin
+insert 49
+getMin 49
+insert -36
+removeMin
+insert -1
+insert -20
+insert -8
+insert 4
+insert -46
+getMin -46
+removeMin
+insert -32
+getMin -32
+insert 40
+insert 20
+insert -21
+insert -36
+getMin -36
+removeMin
+removeMin
+insert -25
+getMin -25
+removeMin
+insert 24
+insert -20
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42
+insert -17
+removeMin
+insert 7
+getMin 7
+insert -24
+removeMin
+removeMin
+insert 19
+getMin 19
+removeMin
+insert 26
+getMin 26
+insert 50
+removeMin
+insert -23
+removeMin
+insert 0
+getMin 0
+removeMin
+removeMin
+removeMin
+removeMin
+insert 25
+insert -10
+insert -6
+insert 28
+insert -39
+getMin -39
+removeMin
+insert -30
+getMin -30
+removeMin
+insert -20
+getMin -20
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 32
+getMin 32
+insert -30
+insert -33
+insert -48
+getMin -48
+insert -9
+removeMin
+removeMin
+removeMin
+removeMin
+insert 12
+getMin 12
+removeMin
+removeMin
+insert 43
+getMin 43
+removeMin
+insert 23
+getMin 23
+removeMin
+insert -5
+getMin -5
+insert -44
+removeMin
+insert -21
+getMin -21
+insert -48
+removeMin
+removeMin
+insert -44
+getMin -44
+insert 33
+insert -38
+insert 37
+removeMin
+removeMin
+removeMin
+insert 32
+insert 22
+insert -7
+insert 42
+removeMin
+removeMin
+removeMin
+insert 12
+insert 37
+insert -19
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -36
+removeMin
+insert 26
+insert 0
+insert -6
+removeMin
+removeMin
+insert 3
+getMin 3
+removeMin
+removeMin
+removeMin
+insert -50
+insert 28
+removeMin
+insert -45
+removeMin
+insert -23
+getMin -23
+removeMin
+removeMin
+removeMin
+insert 48
+getMin 48
+removeMin
+insert -14
+removeMin
+insert 24
+getMin 24
+insert -40
+removeMin
+removeMin
+insert 24
+getMin 24
+insert 21
+getMin 21
+removeMin
+insert 16
+removeMin
+insert 7
+insert -29
+getMin -29
+insert -30
+removeMin
+removeMin
+removeMin
+removeMin
+insert 49
+getMin 49
+insert 22
+getMin 22
+insert -37
+insert 29
+removeMin
+removeMin
+removeMin
+insert 40
+getMin 40
+insert -9
+getMin -9
+insert -26
+getMin -26
+insert 45
+insert -50
+getMin -50
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 46
+getMin 46
+insert 8
+getMin 8
+removeMin
+insert -24
+getMin -24
+removeMin
+insert -6
+getMin -6
+insert 25
+insert -27
+getMin -27
+removeMin
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -42
+getMin -42
+insert -43
+insert 5
+removeMin
+removeMin
+insert 36
+insert 24
+insert 17
+removeMin
+removeMin
+removeMin
+removeMin
+insert 37
+getMin 37
+removeMin
+removeMin
+insert 9
+removeMin
+removeMin
+insert 47
+getMin 47
+insert 2
+getMin 2
+removeMin
+removeMin
+removeMin
+insert 37
+getMin 37
+insert 3
+removeMin
+insert 10
+getMin 10
+insert 5
+insert -30
+insert 41
+insert 3
+removeMin
+removeMin
+removeMin
+insert 46
+insert -20
+getMin -20
+insert -34
+insert -10
+removeMin
+insert -32
+getMin -32
+removeMin
+insert -30
+getMin -30
+removeMin
+insert 5
+removeMin
+removeMin
+removeMin
+insert 9
+getMin 9
+insert -22
+removeMin
+insert -14
+getMin -14
+removeMin
+removeMin
+removeMin
+insert 11
+getMin 11
+removeMin
+removeMin
+insert -45
+getMin -45
+removeMin
+removeMin
+insert 28
+getMin 28
+removeMin
+insert 43
+getMin 43
+insert -46
+insert -13
+removeMin
+removeMin
+removeMin
+removeMin
+insert 49
+getMin 49
+insert -27
+getMin -27
+insert 43
+removeMin
+insert -14
+insert 11
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+removeMin
+removeMin
+insert 34
+insert -21
+insert 3
+insert -35
+insert 36
+removeMin
+insert -28
+insert -35
+insert -8
+insert 34
+removeMin
+insert -33
+getMin -33
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 16
+getMin 16
+insert -47
+getMin -47
+removeMin
+removeMin
+removeMin
+removeMin
+insert 35
+getMin 35
+removeMin
+insert 8
+insert 32
+removeMin
+removeMin
+removeMin
+insert 20
+removeMin
+insert -4
+insert -41
+removeMin
+removeMin
+insert 9
+getMin 9
+removeMin
+insert -48
+insert 8
+removeMin
+removeMin
+insert 27
+getMin 27
+insert -6
+removeMin
+insert 0
+getMin 0
+removeMin
+removeMin
+insert 35
+getMin 35
+insert 32
+insert -12
+removeMin
+insert -11
+getMin -11
+insert 33
+insert -34
+removeMin
+insert -17
+getMin -17
+removeMin
+removeMin
+insert -31
+getMin -31
+insert 36
+insert -37
+removeMin
+removeMin
+insert -10
+getMin -10
+insert -32
+getMin -32
+insert -46
+getMin -46
+insert -36
+removeMin
+removeMin
+removeMin
+getMin -10
+removeMin
+insert -35
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42
+insert -35
+removeMin
+insert -40
+removeMin
+insert -5
+getMin -5
+insert -15
+removeMin
+removeMin
+insert 5
+getMin 5
+insert -45
+getMin -45
+removeMin
+removeMin
+insert -9
+insert -25
+getMin -25
+removeMin
+removeMin
+insert 15
+getMin 15
+removeMin
+insert -33
+removeMin
+insert 8
+getMin 8
+removeMin
+insert 24
+getMin 24
+removeMin
+removeMin
+insert 45
+getMin 45
+insert -31
+removeMin
+insert 48
+removeMin
+insert -40
+getMin -40
+removeMin
+insert 44
+getMin 44
+insert 18
+insert -29
+removeMin
+removeMin
+insert -13
+removeMin
+removeMin
+insert 40
+getMin 40
+removeMin
+insert -46
+getMin -46
+insert -26
+removeMin
+insert 10
+removeMin
+removeMin
+insert 11
+getMin 11
+removeMin
+removeMin
+insert 38
+removeMin
+insert -20
+getMin -20
+insert 32
+insert -40
+removeMin
+removeMin
+insert -44
+getMin -44
+removeMin
+insert -36
+getMin -36
+insert -8
+insert 34
+removeMin
+insert -16
+insert -34
+getMin -34
+removeMin
+removeMin
+removeMin
+insert 18
+getMin 18
+insert -26
+insert -41
+getMin -41
+removeMin
+removeMin
+insert 7
+getMin 7
+insert 40
+insert -26
+removeMin
+removeMin
+insert 10
+getMin 10
+insert -28
+removeMin
+insert 41
+insert 10
+insert 42
+removeMin
+insert -49
+removeMin
+insert -32
+getMin -32
+removeMin
+removeMin
+insert -50
+getMin -50
+removeMin
+insert -49
+getMin -49
+removeMin
+removeMin
+insert -21
+removeMin
+insert 23
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 45
+getMin 45
+insert 19
+getMin 19
+removeMin
+insert 35
+getMin 35
+removeMin
+removeMin
+insert 50
+insert 22
+getMin 22
+removeMin
+insert -31
+insert -16
+removeMin
+removeMin
+insert 37
+getMin 37
+insert -44
+getMin -44
+removeMin
+insert -2
+getMin -2
+removeMin
+insert 28
+getMin 28
+insert 8
+getMin 8
+insert 1
+removeMin
+removeMin
+insert 23
+getMin 23
+insert -37
+getMin -37
+removeMin
+insert 37
+insert -9
+insert 12
+insert 42
+removeMin
+removeMin
+removeMin
+getMin 28
+removeMin
+insert 34
+getMin 34
+insert -1
+removeMin
+removeMin
+removeMin
+removeMin
+insert 38
+getMin 38
+removeMin
+removeMin
+removeMin
+insert 5
+getMin 5
+removeMin
+insert 0
+removeMin
+insert -45
+removeMin
+insert -21
+getMin -21
+removeMin
+insert 0
+removeMin
+insert 35
+getMin 35
+insert 2
+getMin 2
+insert 37
+insert -47
+insert 0
+removeMin
+insert -20
+getMin -20
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 48
+getMin 48
+insert -14
+getMin -14
+removeMin
+removeMin
+insert 50
+getMin 50
+removeMin
+insert 47
+insert -16
+removeMin
+insert 41
+getMin 41
+insert 5
+getMin 5
+removeMin
+insert 38
+removeMin
+insert 36
+removeMin
+insert -5
+getMin -5
+insert -16
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+removeMin
+insert -32
+removeMin
+insert 31
+insert -40
+removeMin
+insert -12
+getMin -12
+removeMin
+insert 9
+getMin 9
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -48
+getMin -48
+removeMin
+removeMin
+insert 22
+insert -40
+getMin -40
+getMin -40
+removeMin
+removeMin
+insert 7
+insert -24
+getMin -24
+removeMin
+removeMin
+insert 16
+getMin 16
+removeMin
+insert -39
+getMin -39
+removeMin
+insert -27
+getMin -27
+insert -7
+insert 44
+removeMin
+insert -35
+getMin -35
+removeMin
+removeMin
+insert 19
+getMin 19
+insert 3
+getMin 3
+insert 0
+removeMin
+removeMin
+removeMin
+insert 27
+getMin 27
+insert -46
+getMin -46
+removeMin
+removeMin
+removeMin
+insert 46
+getMin 46
+insert -44
+removeMin
+insert -35
+getMin -35
+removeMin
+removeMin
+insert 13
+getMin 13
+insert 15
+insert -49
+getMin -49
+insert 41
+removeMin
+insert -29
+getMin -29
+removeMin
+insert -5
+getMin -5
+removeMin
+insert -40
+getMin -40
+removeMin
+insert 4
+getMin 4
+insert -22
+getMin -22
+removeMin
+insert 3
+getMin 3
+removeMin
+insert 9
+removeMin
+removeMin
+removeMin
+removeMin
+insert 26
+getMin 26
+insert -29
+getMin -29
+removeMin
+removeMin
+removeMin
+insert 45
+getMin 45
+insert -8
+insert -42
+getMin -42
+removeMin
+insert -24
+getMin -24
+insert -47
+insert -3
+removeMin
+removeMin
+insert -18
+getMin -18
+removeMin
+insert -15
+insert -45
+removeMin
+insert 30
+insert 20
+insert -50
+insert 49
+removeMin
+removeMin
+removeMin
+removeMin
+insert 1
+getMin 1
+removeMin
+removeMin
+insert 22
+getMin 22
+removeMin
+insert 24
+getMin 24
+insert 37
+removeMin
+removeMin
+insert 36
+getMin 36
+removeMin
+insert 5
+getMin 5
+insert -4
+insert -38
+removeMin
+removeMin
+removeMin
+insert 26
+getMin 26
+removeMin
+removeMin
+getMin 45
+insert 12
+removeMin
+removeMin
+removeMin
+insert -2
+insert -44
+getMin -44
+removeMin
+insert -36
+getMin -36
+removeMin
+removeMin
+insert -15
+getMin -15
+removeMin
+insert 1
+getMin 1
+removeMin
+removeMin
+insert 0
+removeMin
+insert 42
+insert 41
+insert 18
+getMin 18
+removeMin
+removeMin
+removeMin
+insert -19
+removeMin
+insert 1
+getMin 1
+removeMin
+insert 14
+getMin 14
+removeMin
+insert -24
+getMin -24
+insert 7
+removeMin
+insert -29
+removeMin
+removeMin
+insert 18
+getMin 18
+removeMin
+insert 25
+getMin 25
+insert -16
+removeMin
+insert 4
+getMin 4
+removeMin
+insert -36
+getMin -36
+insert -43
+getMin -43
+removeMin
+insert -47
+removeMin
+insert -36
+removeMin
+removeMin
+removeMin
+insert 34
+getMin 34
+insert -38
+removeMin
+insert -2
+getMin -2
+removeMin
+insert 2
+getMin 2
+removeMin
+insert -3
+insert 15
+removeMin
+insert -48
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+insert 6
+getMin 6
+removeMin
+getMin 44
+insert -3
+getMin -3
+insert -48
+getMin -48
+insert 25
+removeMin
+insert -43
+removeMin
+removeMin
+insert 22
+getMin 22
+removeMin
+insert -48
+removeMin
+insert -31
+getMin -31
+removeMin
+removeMin
+removeMin
+insert 45
+getMin 45
+insert -39
+removeMin
+insert 32
+getMin 32
+removeMin
+insert -35
+getMin -35
+insert 6
+insert -46
+getMin -46
+insert 45
+removeMin
+removeMin
+insert -7
+getMin -7
+removeMin
+removeMin
+insert -18
+getMin -18
+removeMin
+removeMin
+removeMin
+insert 46
+getMin 46
+insert 0
+getMin 0
+removeMin
+removeMin
+insert 50
+getMin 50
+removeMin
+insert -22
+getMin -22
+removeMin
+insert -44
+removeMin
+insert -36
+getMin -36
+insert 27
+insert 42
+removeMin
+insert 16
+getMin 16
+insert 14
+insert -22
+insert -3
+insert 33
+insert 14
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 36
+getMin 36
+removeMin
+insert -31
+removeMin
+removeMin
+insert 0
+removeMin
+insert 1
+insert 25
+insert -34
+getMin -34
+insert -4
+removeMin
+insert -28
+getMin -28
+removeMin
+insert -25
+getMin -25
+removeMin
+removeMin
+removeMin
+insert 3
+getMin 3
+removeMin
+removeMin
+insert -32
+getMin -32
+insert 25
+removeMin
+removeMin
+insert 37
+insert 8
+removeMin
+insert 30
+getMin 30
+removeMin
+removeMin
+insert 0
+removeMin
+insert 0
+removeMin
+insert 33
+removeMin
+insert 34
+removeMin
+insert -20
+removeMin
+insert -20
+removeMin
+insert 38
+getMin 38
+removeMin
+insert 0
+removeMin
+insert 0
+removeMin
+insert -13
+insert -16
+insert -14
+insert -43
+getMin -43
+insert 12
+removeMin
+removeMin
+removeMin
+removeMin
+insert 10
+getMin 10
+insert -8
+insert 2
+insert 40
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 50
+getMin 50
+removeMin
+insert -37
+removeMin
+insert -27
+getMin -27
+removeMin
+insert -2
+insert 13
+insert 27
+removeMin
+insert 38
+removeMin
+insert 17
+getMin 17
+insert -28
+getMin -28
+removeMin
+insert 11
+getMin 11
+insert 3
+insert 15
+insert 30
+removeMin
+removeMin
+insert -10
+getMin -10
+removeMin
+insert -10
+getMin -10
+removeMin
+insert 8
+getMin 8
+insert -9
+removeMin
+insert -3
+getMin -3
+removeMin
+removeMin
+removeMin
+removeMin
+insert 22
+getMin 22
+insert 35
+insert -22
+getMin -22
+removeMin
+insert -7
+getMin -7
+removeMin
+removeMin
+insert 33
+removeMin
+insert 14
+getMin 14
+insert -36
+insert 18
+removeMin
+insert -28
+getMin -28
+insert -23
+insert -45
+getMin -45
+insert -49
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 21
+getMin 21
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 40
+getMin 40
+insert 36
+getMin 36
+insert -44
+getMin -44
+removeMin
+insert 8
+getMin 8
+insert -2
+getMin -2
+removeMin
+insert -14
+getMin -14
+insert -28
+removeMin
+removeMin
+removeMin
+removeMin
+insert -30
+insert -37
+getMin -37
+removeMin
+removeMin
+insert 5
+getMin 5
+insert 50
+insert -2
+getMin -2
+insert 46
+removeMin
+removeMin
+insert 11
+getMin 11
+insert -6
+getMin -6
+insert 8
+insert -8
+getMin -8
+insert -25
+getMin -25
+insert 25
+insert -29
+insert 25
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 27
+getMin 27
+insert -10
+getMin -10
+removeMin
+insert -3
+getMin -3
+removeMin
+insert 32
+removeMin
+insert 5
+getMin 5
+insert -31
+getMin -31
+insert 24
+insert -47
+getMin -47
+insert -44
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 43
+getMin 43
+insert 35
+getMin 35
+insert -36
+getMin -36
+removeMin
+insert 8
+getMin 8
+removeMin
+insert 30
+getMin 30
+insert -8
+getMin -8
+removeMin
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+insert -26
+removeMin
+insert 29
+getMin 29
+removeMin
+insert 39
+getMin 39
+insert -24
+removeMin
+removeMin
+removeMin
+removeMin
+insert 47
+getMin 47
+insert -37
+removeMin
+insert 2
+getMin 2
+removeMin
+insert 14
+getMin 14
+insert 30
+removeMin
+insert -30
+getMin -30
+removeMin
+insert -15
+getMin -15
+removeMin
+removeMin
+removeMin
+insert 48
+getMin 48
+insert -13
+insert -35
+getMin -35
+removeMin
+removeMin
+insert 10
+getMin 10
+removeMin
+removeMin
+insert 8
+getMin 8
+insert -20
+removeMin
+insert -26
+insert -29
+getMin -29
+removeMin
+insert 33
+insert 27
+removeMin
+removeMin
+removeMin
+removeMin
+insert 48
+getMin 48
+insert -46
+removeMin
+insert 25
+getMin 25
+removeMin
+insert 27
+getMin 27
+insert 13
+getMin 13
+removeMin
+insert 16
+getMin 16
+insert 15
+insert -35
+getMin -35
+removeMin
+insert -38
+getMin -38
+removeMin
+insert 3
+insert -24
+removeMin
+removeMin
+insert -12
+getMin -12
+removeMin
+insert -17
+getMin -17
+insert -32
+removeMin
+insert -15
+insert -26
+insert -26
+removeMin
+removeMin
+removeMin
+removeMin
+insert -1
+getMin -1
+insert 4
+insert -6
+getMin -6
+insert -36
+removeMin
+removeMin
+insert -22
+insert 5
+insert 8
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 27
+removeMin
+insert 0
+getMin 0
+removeMin
+insert -24
+insert 22
+removeMin
+removeMin
+insert 46
+getMin 46
+removeMin
+insert 35
+getMin 35
+removeMin
+insert 40
+getMin 40
+insert -18
+insert -2
+insert -47
+getMin -47
+removeMin
+insert 40
+removeMin
+removeMin
+removeMin
+removeMin
+insert 11
+getMin 11
+removeMin
+insert -35
+getMin -35
+insert -2
+insert -49
+getMin -49
+insert 48
+removeMin
+removeMin
+removeMin
+insert -41
+getMin -41
+removeMin
+insert 19
+insert -12
+getMin -12
+removeMin
+removeMin
+insert 11
+removeMin
+insert -44
+removeMin
+removeMin
+insert -30
+getMin -30
+removeMin
+insert -32
+insert -33
+removeMin
+removeMin
+insert 19
+getMin 19
+insert -14
+getMin -14
+removeMin
+insert 17
+getMin 17
+insert -31
+getMin -31
+removeMin
+insert -38
+removeMin
+insert -44
+getMin -44
+insert -50
+getMin -50
+insert 14
+insert -39
+insert -34
+insert -36
+insert 5
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 16
+getMin 16
+removeMin
+removeMin
+removeMin
+insert -1
+insert 9
+removeMin
+insert -23
+removeMin
+removeMin
+insert 39
+insert 8
+insert -8
+getMin -8
+insert 49
+insert 38
+removeMin
+insert 18
+insert 31
+insert -3
+getMin -3
+removeMin
+insert -31
+removeMin
+insert -4
+getMin -4
+insert -40
+getMin -40
+insert -47
+insert -17
+removeMin
+removeMin
+insert -19
+getMin -19
+insert -31
+insert 9
+insert 4
+insert 41
+insert 20
+removeMin
+removeMin
+removeMin
+removeMin
+insert -1
+getMin -1
+removeMin
+insert -36
+insert 7
+insert -12
+insert -38
+getMin -38
+insert 18
+removeMin
+removeMin
+removeMin
+removeMin
+insert -1
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 32
+getMin 32
+insert -44
+getMin -44
+insert -42
+insert -45
+removeMin
+removeMin
+removeMin
+insert -39
+getMin -39
+insert 8
+removeMin
+insert -26
+getMin -26
+removeMin
+insert -14
+getMin -14
+insert -34
+getMin -34
+insert -46
+insert -22
+removeMin
+insert -50
+insert -17
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 6
+getMin 6
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42
+removeMin
+insert -17
+removeMin
+insert 40
+getMin 40
+insert -35
+getMin -35
+removeMin
+insert 35
+getMin 35
+removeMin
+insert 39
+getMin 39
+insert -40
+removeMin
+insert 1
+removeMin
+insert 42
+removeMin
+insert -22
+removeMin
+removeMin
+removeMin
+getMin 48
+removeMin
+insert 19
+insert 33
+insert -2
+getMin -2
+insert 39
+removeMin
+insert -3
+removeMin
+insert 11
+getMin 11
+removeMin
+insert -27
+insert -33
+getMin -33
+removeMin
+getMin -27
+removeMin
+insert 17
+getMin 17
+insert 27
+removeMin
+removeMin
+insert 20
+getMin 20
+insert -9
+getMin -9
+insert 31
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 45
+getMin 45
+removeMin
+insert -3
+getMin -3
+insert -33
+removeMin
+removeMin
+insert 10
+insert -32
+getMin -32
+insert -48
+removeMin
+removeMin
+removeMin
+insert 35
+getMin 35
+insert -11
+getMin -11
+removeMin
+insert 2
+getMin 2
+removeMin
+insert 7
+getMin 7
+insert 2
+getMin 2
+insert -13
+getMin -13
+insert 2
+insert -17
+getMin -17
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 19
+getMin 19
+insert -21
+insert -31
+removeMin
+insert -29
+insert -46
+removeMin
+removeMin
+removeMin
+insert -15
+getMin -15
+removeMin
+insert -32
+getMin -32
+removeMin
+removeMin
+removeMin
+insert 40
+getMin 40
+insert 14
+insert -3
+getMin -3
+removeMin
+removeMin
+insert 32
+getMin 32
+insert 30
+insert -20
+getMin -20
+removeMin
+insert 45
+removeMin
+insert -36
+insert 9
+insert -38
+removeMin
+removeMin
+removeMin
+removeMin
+insert 37
+getMin 37
+removeMin
+removeMin
+insert -23
+insert 8
+removeMin
+removeMin
+insert -41
+getMin -41
+insert -15
+insert -35
+removeMin
+insert 5
+removeMin
+insert -16
+getMin -16
+insert -22
+removeMin
+removeMin
+insert -46
+removeMin
+removeMin
+insert -7
+getMin -7
+removeMin
+removeMin
+insert 35
+getMin 35
+insert 22
+removeMin
+removeMin
+insert -30
+insert 50
+removeMin
+insert 11
+getMin 11
+insert -47
+insert 3
+insert -14
+removeMin
+insert 24
+insert 40
+insert 37
+removeMin
+removeMin
+insert 7
+getMin 7
+insert -39
+getMin -39
+insert 46
+removeMin
+removeMin
+insert 9
+getMin 9
+insert -13
+getMin -13
+removeMin
+removeMin
+removeMin
+getMin 24
+removeMin
+insert 0
+removeMin
+insert -49
+getMin -49
+insert -34
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 47
+getMin 47
+insert 34
+getMin 34
+removeMin
+removeMin
+insert -22
+getMin -22
+insert 34
+removeMin
+removeMin
+removeMin
+insert 9
+getMin 9
+insert -26
+getMin -26
+removeMin
+removeMin
+insert 25
+getMin 25
+insert -41
+getMin -41
+removeMin
+removeMin
+insert 35
+getMin 35
+insert 29
+getMin 29
+insert 27
+getMin 27
+removeMin
+insert -8
+getMin -8
+removeMin
+insert -7
+getMin -7
+removeMin
+insert 18
+removeMin
+insert -23
+insert -30
+removeMin
+insert -45
+removeMin
+removeMin
+removeMin
+removeMin
+insert -39
+getMin -39
+insert 29
+removeMin
+insert -30
+getMin -30
+removeMin
+insert 13
+getMin 13
+insert -42
+getMin -42
+removeMin
+removeMin
+insert 11
+insert -45
+getMin -45
+removeMin
+insert 28
+insert 5
+getMin 5
+removeMin
+insert -35
+removeMin
+insert -2
+getMin -2
+removeMin
+removeMin
+insert 17
+getMin 17
+insert -1
+getMin -1
+insert 4
+insert -3
+getMin -3
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 39
+getMin 39
+insert -5
+getMin -5
+insert -32
+removeMin
+removeMin
+insert 10
+getMin 10
+removeMin
+insert 30
+getMin 30
+removeMin
+insert 35
+getMin 35
+insert 14
+removeMin
+insert -32
+removeMin
+insert -17
+getMin -17
+insert -39
+removeMin
+removeMin
+removeMin
+removeMin
+insert 40
+getMin 40
+removeMin
+insert -14
+getMin -14
+removeMin
+insert -30
+getMin -30
+insert 9
+insert -25
+removeMin
+removeMin
+insert -16
+getMin -16
+removeMin
+removeMin
+insert 11
+removeMin
+removeMin
+insert 6
+insert -20
+removeMin
+insert -1
+getMin -1
+removeMin
+removeMin
+insert 13
+getMin 13
+removeMin
+insert -8
+insert 19
+insert -22
+getMin -22
+removeMin
+insert -14
+getMin -14
+removeMin
+insert -38
+removeMin
+removeMin
+insert -29
+getMin -29
+removeMin
+removeMin
+insert 21
+getMin 21
+insert 8
+getMin 8
+insert -27
+removeMin
+insert -26
+getMin -26
+insert 2
+removeMin
+insert -15
+getMin -15
+insert 0
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 34
+getMin 34
+insert -32
+insert -24
+removeMin
+removeMin
+insert -22
+getMin -22
+removeMin
+insert -17
+getMin -17
+removeMin
+insert -15
+getMin -15
+insert -33
+insert 22
+removeMin
+removeMin
+insert 2
+getMin 2
+removeMin
+removeMin
+insert 28
+getMin 28
+insert 38
+removeMin
+insert 1
+removeMin
+insert -29
+removeMin
+removeMin
+insert 37
+getMin 37
+insert -43
+getMin -43
+removeMin
+insert -45
+removeMin
+insert 27
+getMin 27
+removeMin
+removeMin
+removeMin
+insert 49
+insert 22
+getMin 22
+removeMin
+insert 19
+insert 35
+insert -35
+getMin -35
+insert -42
+insert 10
+removeMin
+removeMin
+insert -20
+getMin -20
+insert 18
+insert -39
+insert 20
+removeMin
+insert -31
+insert 26
+removeMin
+getMin -20
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 49
+insert -19
+insert 38
+removeMin
+insert 47
+removeMin
+insert 31
+getMin 31
+removeMin
+removeMin
+insert -3
+insert 32
+insert -50
+removeMin
+insert -44
+getMin -44
+removeMin
+insert 18
+insert -12
+removeMin
+removeMin
+removeMin
+insert 19
+getMin 19
+insert 41
+removeMin
+insert 11
+removeMin
+insert -8
+getMin -8
+removeMin
+removeMin
+insert 3
+getMin 3
+insert -16
+getMin -16
+removeMin
+removeMin
+insert 7
+insert -32
+removeMin
+removeMin
+removeMin
+removeMin
+insert 27
+getMin 27
+insert 48
+insert -40
+insert -39
+insert -14
+insert 7
+removeMin
+insert -21
+removeMin
+removeMin
+removeMin
+insert 2
+getMin 2
+insert -4
+getMin -4
+removeMin
+insert -25
+removeMin
+getMin 2
+insert 6
+removeMin
+insert 32
+removeMin
+removeMin
+removeMin
+insert 29
+getMin 29
+removeMin
+insert 29
+getMin 29
+removeMin
+insert 4
+removeMin
+insert 21
+removeMin
+insert -36
+removeMin
+insert -21
+getMin -21
+insert 11
+removeMin
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -6
+getMin -6
+removeMin
+insert 4
+getMin 4
+insert -44
+removeMin
+removeMin
+insert 36
+getMin 36
+insert 3
+insert 35
+removeMin
+removeMin
+removeMin
+insert 39
+getMin 39
+insert -40
+removeMin
+insert -2
+getMin -2
+removeMin
+removeMin
+insert -50
+removeMin
+removeMin
+insert -10
+insert 19
+removeMin
+removeMin
+removeMin
+insert -11
+getMin -11
+removeMin
+insert 5
+getMin 5
+removeMin
+insert 12
+getMin 12
+insert -39
+insert -42
+getMin -42
+insert 11
+insert -10
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 29
+getMin 29
+insert -5
+getMin -5
+insert -32
+removeMin
+insert 41
+insert -28
+getMin -28
+insert -29
+removeMin
+insert -50
+insert -50
+removeMin
+removeMin
+removeMin
+removeMin
+insert -2
+getMin -2
+removeMin
+removeMin
+insert 36
+getMin 36
+insert -38
+getMin -38
+insert -46
+getMin -46
+insert -33
+insert -29
+removeMin
+removeMin
+insert -33
+insert 12
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 46
+getMin 46
+insert 15
+removeMin
+insert -48
+removeMin
+insert 17
+insert -7
+getMin -7
+removeMin
+insert -47
+getMin -47
+removeMin
+insert -13
+getMin -13
+removeMin
+insert 7
+insert 0
+getMin 0
+insert -26
+getMin -26
+insert -21
+insert -50
+getMin -50
+removeMin
+removeMin
+removeMin
+insert -20
+getMin -20
+removeMin
+insert 34
+removeMin
+removeMin
+removeMin
+insert -7
+insert -28
+removeMin
+removeMin
+removeMin
+insert -35
+getMin -35
+insert -15
+insert -19
+removeMin
+removeMin
+insert -16
+getMin -16
+insert 9
+removeMin
+removeMin
+insert -16
+getMin -16
+insert -38
+removeMin
+removeMin
+removeMin
+insert 22
+getMin 22
+insert 10
+removeMin
+insert 35
+insert -10
+getMin -10
+insert -49
+insert -35
+removeMin
+removeMin
+removeMin
+insert 12
+getMin 12
+insert 21
+removeMin
+removeMin
+insert 7
+getMin 7
+insert -25
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42
+insert 21
+removeMin
+insert 31
+getMin 31
+insert -44
+getMin -44
+insert 47
+insert -49
+removeMin
+removeMin
+removeMin
+getMin 42
+insert 38
+getMin 38
+insert 32
+getMin 32
+insert -22
+getMin -22
+removeMin
+insert 30
+getMin 30
+insert -25
+removeMin
+insert 14
+getMin 14
+insert -34
+insert -38
+getMin -38
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+insert 19
+getMin 19
+insert -26
+removeMin
+insert 3
+getMin 3
+removeMin
+removeMin
+insert 34
+getMin 34
+insert 32
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -4
+insert -16
+getMin -16
+removeMin
+removeMin
+insert -43
+getMin -43
+removeMin
+insert -31
+getMin -31
+insert -11
+removeMin
+insert -16
+getMin -16
+insert -15
+removeMin
+removeMin
+insert 26
+removeMin
+removeMin
+removeMin
+insert 43
+getMin 43
+insert -13
+getMin -13
+removeMin
+insert -12
+getMin -12
+insert -26
+getMin -26
+removeMin
+removeMin
+insert -11
+getMin -11
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 50
+insert -32
+insert 23
+removeMin
+removeMin
+insert 24
+getMin 24
+removeMin
+insert 22
+removeMin
+insert 49
+getMin 49
+insert -35
+getMin -35
+removeMin
+removeMin
+getMin 50
+insert -20
+getMin -20
+removeMin
+insert -10
+getMin -10
+removeMin
+getMin 50
+insert 17
+getMin 17
+insert -34
+getMin -34
+insert 22
+insert -35
+removeMin
+removeMin
+insert 2
+getMin 2
+removeMin
+removeMin
+insert 38
+insert 3
+removeMin
+insert 0
+insert -35
+getMin -35
+insert 18
+removeMin
+insert 10
+insert 44
+insert -18
+insert 21
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 43
+getMin 43
+removeMin
+removeMin
+insert -19
+getMin -19
+removeMin
+removeMin
+insert -2
+getMin -2
+insert -7
+removeMin
+insert -19
+getMin -19
+insert -21
+removeMin
+removeMin
+removeMin
+insert 0
+removeMin
+insert 4
+getMin 4
+removeMin
+insert -42
+getMin -42
+removeMin
+insert 10
+getMin 10
+insert 26
+insert -1
+getMin -1
+removeMin
+insert 15
+removeMin
+insert 24
+insert -8
+getMin -8
+removeMin
+removeMin
+removeMin
+removeMin
+insert 31
+getMin 31
+removeMin
+insert -35
+removeMin
+insert -30
+getMin -30
+removeMin
+insert 46
+getMin 46
+insert 1
+getMin 1
+insert -22
+getMin -22
+removeMin
+insert 2
+insert 5
+insert 17
+removeMin
+insert -2
+removeMin
+insert -35
+removeMin
+insert -6
+insert -14
+insert -14
+removeMin
+insert 0
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 18
+getMin 18
+insert -7
+insert -35
+insert -33
+removeMin
+removeMin
+insert -19
+getMin -19
+insert 27
+insert -44
+getMin -44
+removeMin
+insert -23
+getMin -23
+insert -7
+insert -27
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 26
+getMin 26
+insert 14
+getMin 14
+insert 12
+insert -12
+getMin -12
+insert 50
+insert -21
+getMin -21
+removeMin
+removeMin
+insert 5
+getMin 5
+insert 21
+insert -16
+insert 24
+insert -17
+removeMin
+removeMin
+insert 3
+getMin 3
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 30
+getMin 30
+insert 17
+getMin 17
+removeMin
+insert -10
+removeMin
+insert 1
+getMin 1
+insert 34
+removeMin
+removeMin
+removeMin
+insert 44
+getMin 44
+insert 47
+removeMin
+removeMin
+insert -19
+getMin -19
+removeMin
+insert 7
+removeMin
+insert -46
+getMin -46
+removeMin
+insert 41
+getMin 41
+removeMin
+insert -41
+getMin -41
+removeMin
+insert 7
+getMin 7
+insert 45
+insert -41
+removeMin
+insert -2
+getMin -2
+insert 33
+removeMin
+insert 26
+removeMin
+removeMin
+removeMin
+insert -41
+removeMin
+insert 30
+getMin 30
+removeMin
+insert -22
+getMin -22
+removeMin
+insert 19
+removeMin
+insert 20
+removeMin
+insert 7
+getMin 7
+removeMin
+removeMin
+removeMin
+insert -6
+insert -10
+insert 37
+removeMin
+insert -8
+getMin -8
+insert -8
+insert -18
+insert -18
+insert 37
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert -1
+getMin -1
+insert 11
+removeMin
+removeMin
+insert 32
+getMin 32
+insert -21
+getMin -21
+removeMin
+removeMin
+insert 28
+removeMin
+insert -24
+removeMin
+insert 23
+getMin 23
+removeMin
+insert 24
+getMin 24
+removeMin
+insert 32
+getMin 32
+insert -34
+getMin -34
+removeMin
+insert -7
+insert 24
+removeMin
+insert -10
+getMin -10
+removeMin
+removeMin
+insert -24
+getMin -24
+removeMin
+insert 23
+getMin 23
+removeMin
+removeMin
+insert -35
+insert 34
+insert -24
+insert 27
+insert -10
+removeMin
+removeMin
+removeMin
+insert -3
+getMin -3
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42
+removeMin
+insert 24
+getMin 24
+insert -2
+getMin -2
+insert -23
+getMin -23
+insert -43
+getMin -43
+removeMin
+insert -30
+getMin -30
+insert -50
+getMin -50
+getMin -50
+insert 37
+removeMin
+removeMin
+insert -30
+insert 47
+removeMin
+removeMin
+insert 14
+removeMin
+removeMin
+removeMin
+removeMin
+insert 43
+getMin 43
+insert -29
+getMin -29
+removeMin
+removeMin
+removeMin
+insert 48
+getMin 48
+insert -31
+getMin -31
+removeMin
+insert -31
+removeMin
+removeMin
+removeMin
+insert -25
+removeMin
+insert 17
+getMin 17
+removeMin
+insert 44
+getMin 44
+removeMin
+insert -46
+insert 48
+removeMin
+removeMin
+insert 0
+removeMin
+insert -48
+insert -1
+removeMin
+insert -8
+getMin -8
+insert -47
+removeMin
+removeMin
+insert -35
+getMin -35
+removeMin
+removeMin
+insert 12
+getMin 12
+insert 2
+removeMin
+removeMin
+insert 21
+getMin 21
+insert -23
+getMin -23
+removeMin
+removeMin
+insert 0
+removeMin
+insert 16
+insert -41
+getMin -41
+insert -20
+insert -33
+insert -43
+removeMin
+removeMin
+insert -36
+getMin -36
+removeMin
+insert 50
+removeMin
+insert -2
+removeMin
+insert 43
+removeMin
+removeMin
+insert -43
+getMin -43
+insert -46
+removeMin
+removeMin
+insert -5
+getMin -5
+insert 14
+insert 49
+insert -38
+removeMin
+insert 46
+removeMin
+removeMin
+insert 26
+getMin 26
+removeMin
+insert -46
+removeMin
+insert 43
+insert -5
+insert -33
+getMin -33
+removeMin
+insert -19
+getMin -19
+removeMin
+insert -43
+insert -8
+removeMin
+removeMin
+removeMin
+insert 0
+getMin 0
+removeMin
+insert 7
+getMin 7
+insert -47
+getMin -47
+removeMin
+insert -34
+getMin -34
+removeMin
+removeMin
+insert 45
+insert 9
+insert -16
+getMin -16
+insert -38
+getMin -38
+insert -17
+insert 44
+removeMin
+insert -8
+insert -47
+removeMin
+insert -47
+getMin -47
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 29
+getMin 29
+removeMin
+insert 30
+getMin 30
+insert 4
+removeMin
+insert -23
+removeMin
+removeMin
+removeMin
+insert -15
+insert -42
+getMin -42
+insert -49
+getMin -49
+insert -14
+removeMin
+removeMin
+removeMin
+insert -49
+getMin -49
+removeMin
+insert -38
+getMin -38
+removeMin
+insert -45
+insert -50
+removeMin
+removeMin
+insert -25
+getMin -25
+removeMin
+insert 47
+removeMin
+insert -4
+getMin -4
+removeMin
+insert -49
+getMin -49
+insert 35
+removeMin
+removeMin
+insert -19
+removeMin
+removeMin
+insert -25
+insert -41
+getMin -41
+insert 44
+insert 0
+insert -48
+getMin -48
+removeMin
+removeMin
+removeMin
+removeMin
+insert 9
+getMin 9
+removeMin
+insert -34
+getMin -34
+insert 42
+insert -11
+removeMin
+removeMin
+insert 28
+getMin 28
+insert -9
+getMin -9
+removeMin
+removeMin
+insert -32
+getMin -32
+removeMin
+getMin 42
+insert -23
+insert -14
+insert -13
+insert -22
+insert 43
+removeMin
+removeMin
+removeMin
+removeMin
+insert 25
+getMin 25
+removeMin
+insert -45
+removeMin
+insert -18
+getMin -18
+removeMin
+insert 19
+insert 6
+removeMin
+insert 10
+getMin 10
+insert -37
+getMin -37
+insert -49
+removeMin
+removeMin
+removeMin
+removeMin
+insert 35
+getMin 35
+removeMin
+removeMin
+insert 4
+removeMin
+insert 5
+getMin 5
+insert -35
+insert 20
+removeMin
+insert -34
+insert 49
+removeMin
+insert -6
+insert 47
+removeMin
+insert -47
+removeMin
+removeMin
+insert 22
+removeMin
+removeMin
+insert 41
+getMin 41
+insert -31
+insert -6
+insert -38
+getMin -38
+insert -49
+removeMin
+insert -44
+getMin -44
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 47
+insert 45
+insert 13
+insert -49
+insert -49
+removeMin
+removeMin
+insert 1
+getMin 1
+insert -6
+getMin -6
+removeMin
+removeMin
+removeMin
+insert 35
+getMin 35
+insert -10
+removeMin
+insert 22
+getMin 22
+insert -1
+removeMin
+insert 13
+getMin 13
+removeMin
+insert -24
+getMin -24
+removeMin
+insert -2
+getMin -2
+removeMin
+insert -36
+insert -25
+insert -40
+getMin -40
+insert 8
+insert -19
+removeMin
+insert 34
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 35
+insert -15
+removeMin
+insert 15
+getMin 15
+removeMin
+insert -8
+removeMin
+insert -6
+getMin -6
+removeMin
+removeMin
+insert 29
+getMin 29
+insert 5
+getMin 5
+removeMin
+removeMin
+insert 34
+getMin 34
+insert -10
+getMin -10
+insert 19
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+getMin 49
+insert 15
+insert -46
+getMin -46
+insert 34
+insert -29
+removeMin
+removeMin
+removeMin
+insert 20
+getMin 20
+removeMin
+removeMin
+insert -10
+getMin -10
+removeMin
+insert 21
+getMin 21
+insert 18
+getMin 18
+insert 3
+getMin 3
+removeMin
+insert -31
+getMin -31
+insert 28
+removeMin
+insert -46
+getMin -46
+removeMin
+insert -10
+getMin -10
+insert -21
+insert -26
+getMin -26
+removeMin
+insert -32
+removeMin
+removeMin
+removeMin
+insert 17
+getMin 17
+insert -34
+removeMin
+insert -15
+insert 42
+insert -9
+removeMin
+removeMin
+removeMin
+removeMin
+insert -11
+insert -34
+insert -41
+getMin -41
+removeMin
+insert -26
+removeMin
+removeMin
+removeMin
+getMin 21
+removeMin
+insert -43
+getMin -43
+removeMin
+removeMin
+removeMin
+insert -22
+getMin -22
+insert -17
+removeMin
+removeMin
+insert 23
+getMin 23
+removeMin
+insert 23
+removeMin
+removeMin
+insert -12
+removeMin
+insert -43
+getMin -43
+removeMin
+removeMin
+removeMin
+insert 0
+removeMin
+insert -23
+insert -2
+insert -27
+getMin -27
+insert 12
+removeMin
+insert 18
+removeMin
+removeMin
+removeMin
+insert 15
+getMin 15
+removeMin
+insert -38
+insert -26
+removeMin
+removeMin
+removeMin
+insert 47
+getMin 47
+insert -11
+getMin -11
+insert 27
+removeMin
+insert 23
+getMin 23
+removeMin
+removeMin
+insert 43
+getMin 43
+removeMin
+insert 11
+insert -10
+removeMin
+insert 26
+insert -10
+removeMin
+insert 3
+insert -17
+removeMin
+insert -31
+removeMin
+insert -16
+getMin -16
+removeMin
+removeMin
+removeMin
+insert 15
+getMin 15
+removeMin
+removeMin
+removeMin
+insert 49
+getMin 49
+insert 22
+getMin 22
+insert -19
+insert 45
+insert 48
+removeMin
+insert -43
+removeMin
+removeMin
+insert 39
+getMin 39
+insert -25
+getMin -25
+removeMin
+removeMin
+removeMin
+removeMin
+insert 20
+removeMin
+insert 25
+insert 22
+getMin 22
+insert 10
+removeMin
+removeMin
+insert -29
+insert -2
+insert -36
+getMin -36
+insert -47
+getMin -47
+removeMin
+insert 26
+removeMin
+removeMin
+removeMin
+insert -44
+getMin -44
+insert -17
+removeMin
+removeMin
+insert 0
+getMin 0
+insert -20
+insert -48
+getMin -48
+insert -49
+getMin -49
+insert -47
+removeMin
+removeMin
+insert 50
+removeMin
+removeMin
+insert -47
+removeMin
+removeMin
+removeMin
+removeMin
+insert 33
+getMin 33
+insert 32
+removeMin
+removeMin
+insert 5
+insert -34
+getMin -34
+insert 25
+removeMin
+removeMin
+insert 17
+getMin 17
+getMin 17
+insert 27
+insert -27
+getMin -27
+insert -37
+insert 39
+insert 36
+removeMin
+removeMin
+insert -28
+removeMin
+removeMin
+removeMin
+removeMin
+insert 31
+getMin 31
+insert 25
+insert -42
+getMin -42
+insert -47
+removeMin
+removeMin
+insert -14
+getMin -14
+removeMin
+insert 15
+removeMin
+removeMin
+removeMin
+insert -18
+getMin -18
+insert 47
+removeMin
+removeMin
+insert -28
+getMin -28
+insert -15
+insert -14
+removeMin
+insert -23
+getMin -23
+removeMin
+insert 25
+insert 31
+insert -24
+insert 20
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+removeMin
+insert 42
+getMin 42

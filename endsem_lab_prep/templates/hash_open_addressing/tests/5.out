@@ -1,0 +1,7 @@
+slot 0 probes 1
+slot 1 probes 2
+OVERFLOW
+slot 3 probes 1
+DUPLICATE
+NOT FOUND probes 4
+0 4 - -1

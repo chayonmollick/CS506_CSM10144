@@ -1,0 +1,20 @@
+// P4: longest palindromic subsequence = LCS(s, reverse(s)); fewest insertions = n - LPS.
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main() {
+    string s;
+    cin >> s;
+    string r(s.rbegin(), s.rend());
+    int n = s.size();
+    vector<vector<int> > c(n + 1, vector<int>(n + 1, 0));
+    for (int i = 1; i <= n; i++)
+        for (int j = 1; j <= n; j++)
+            if (s[i - 1] == r[j - 1]) c[i][j] = c[i - 1][j - 1] + 1;
+            else c[i][j] = max(c[i - 1][j], c[i][j - 1]);
+    cout << c[n][n] << '\n' << n - c[n][n] << '\n';
+    return 0;
+}

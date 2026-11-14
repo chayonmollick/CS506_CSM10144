@@ -1,0 +1,12 @@
+11
+getMin
+insert 5
+insert 3
+insert 8
+getMin
+removeMin
+getMin
+insert -2
+size
+removeMin
+removeMin
